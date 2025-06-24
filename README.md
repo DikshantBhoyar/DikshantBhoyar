@@ -3,8 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-- 🔭 **I’m currently working on:** Real-world data projects using Power BI, SQL, and Python  
-- 🌱 **I’m currently learning:** Machine Learning, Feature Engineering, and Advanced Excel  
+- 🔭 **I’m currently working on:** Real-world data projects using Power BI, SQL, Python and Advanced Excel   
+- 🌱 **I’m currently learning:** Machine Learning and Feature Engineering 
 - 👯 **I’m looking to collaborate on:** Data analysis case studies, EDA, dashboarding projects  
 - 🤔 **I’m looking for help with:** Improving Python-based visualizations and Power BI deployment tips  
 - 💬 **Ask me about:** Power BI, SQL queries, Excel dashboards, and beginner data projects  

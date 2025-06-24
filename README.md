@@ -30,8 +30,6 @@
 ## ⚡ Activity Overview:
 [![](https://visitcount.itsvg.in/api?id=the-mansi-goel&icon=0&color=5)](https://visitcount.itsvg.in)
 
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
